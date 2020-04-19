@@ -1,0 +1,9 @@
+# FAT16 Parser
+
+Python implementation of TSK's fsstat program.
+
+Usage: run fsstat_fat16 |filename|
+
+Output: prints to the console a formatted decription of FAT16 metadata
+
+Note: fsstat_fat16 expects a .dd filetype.
